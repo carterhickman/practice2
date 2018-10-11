@@ -1,5 +1,8 @@
 /* Sample implementation of wc utility. */
-     
+    /** @file  name 
+    @brief this does blah blah 
+    
+    **/
      #include <stdlib.h>
      #include <stdio.h>
      #include <stdarg.h>
